@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588627010078",
+    "project_id": "mynotes-512ae",
+    "storage_bucket": "mynotes-512ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588627010078:android:94198108a5a1aba554440f",
+        "android_client_info": {
+          "package_name": "com.example.hatice.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588627010078-e5l2c9tfc0a3pnji3hbp8r0tqoufnoa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWKzDCuZJKAbSPfAHtYpJFHJS3b6JfQrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588627010078-e5l2c9tfc0a3pnji3hbp8r0tqoufnoa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
